@@ -1,2 +1,2 @@
 this is my test readme
-![testing123](https://en.wikipedia.org/wiki/GIF#/media/File:Rotating_earth_(large).gif)
+![testing123](https://upload.wikimedia.org/wikipedia/commons/8/83/Earth_Rotation.gif)
